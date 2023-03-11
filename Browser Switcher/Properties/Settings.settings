@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Browser_Switcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Browsers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">firefox.exe,C:\Program Files\Mozilla Firefox\browser\VisualElements\VisualElements_70.png|chrome.exe,C:\Program Files\Google\Chrome\Application\102.0.5005.61\VisualElements\SmallLogo.png</Value>
+    </Setting>
+    <Setting Name="Chrome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Chrome,chrome.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
